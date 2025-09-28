@@ -20,7 +20,7 @@ Page Structure & Formatting
  * Headings: Content is organized into logical sections using various heading levels (<h1>, <h2>, etc.).
  * Content Separators: Horizontal rules (<hr>) and line breaks (<br>) are used for visual separation of content.
  * Comments: Proper HTML comments have been added before each major section for code documentation and clarity.
- * Text Formatting: Includes paragraphs with text formatted using Bold, Italic, <u>Underline</u>, and <strike>Strikethrough</strike> tags.
+ * Text Formatting: Includes paragraphs with text formatted using Bold, Italic, <u>Underline</u>, and <s>Strikethrough</s> tags.
 
 Content Elements
 
