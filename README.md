@@ -2,7 +2,8 @@ Simple Travel Website using HTML
 
 This project is a static travel website homepage created as part of an academic assignment.The primary goal is to design a static HTML-based travel website homepage that displays travel destinations, travel packages, and contact details. The project demonstrates proficiency in fundamental HTML5 concepts by building a well-structured and visually organized webpage.
 
-<img width="1300" height="589" alt="Screenshot 2025-09-28 105714" src="https://github.com/user-attachments/assets/bdbfd6b4-e117-4efb-8961-5da1ff8b366d" />
+<img width="1302" height="618" alt="Screenshot 2025-09-28 105643" src="https://github.com/user-attachments/assets/4185e495-2e07-41b6-8f8c-4dea11758720" />
+
 
 Objective
 
@@ -34,8 +35,7 @@ Content Elements
    * An Unordered List for "Travel Essentials to Pack".
    * A Definition List to define three travel-related terms.
    
-<img width="1302" height="618" alt="Screenshot 2025-09-28 105643" src="https://github.com/user-attachments/assets/4185e495-2e07-41b6-8f8c-4dea11758720" />
-
+<img width="1300" height="589" alt="Screenshot 2025-09-28 105714" src="https://github.com/user-attachments/assets/bdbfd6b4-e117-4efb-8961-5da1ff8b366d" />
 
 
  * Table: A data table displays travel packages with at least 4 rows and 3 columns (Destination | Price | Duration).
