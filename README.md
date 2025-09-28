@@ -28,9 +28,10 @@ Content Elements
  * Lists: All three types of lists are used:
    * An Ordered List to show the "Top 5 Travel Destinations".
    * An Unordered List for "Travel Essentials to Pack".
-   * A Definition List to define three travel-related terms.    <img width="1226" height="575" alt="Screenshot 2025-09-28 105738" src="https://github.com/user-attachments/assets/776bd3de-4dd5-44c6-9136-d14dc89e4cb0" />
-<img width="1300" height="589" alt="Screenshot 2025-09-28 105714" src="https://github.com/user-attachments/assets/8150bd2d-28a2-42f0-bda4-c30ad92a5fb4" />
-<img width="1302" height="618" alt="Screenshot 2025-09-28 105643" src="https://github.com/user-attachments/assets/297fe715-3fa4-4a20-ae25-e297f50fd9cf" />
+   * A Definition List to define three travel-related terms.    <img width="1226" height="575" alt="Screenshot 2025-09-28 105738" src="https://github.com/user-attachments/assets/e289b122-eb6b-4899-819c-71164fa97333" />
+<img width="1300" height="589" alt="Screenshot 2025-09-28 105714" src="https://github.com/user-attachments/assets/bf8c362f-fce3-4cc4-a323-f12074b5b802" />
+<img width="1302" height="618" alt="Screenshot 2025-09-28 105643" src="https://github.com/user-attachments/assets/1114e9e1-76a8-4c93-a91c-5f496ae55b1d" />
+
 
 
 
