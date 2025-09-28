@@ -28,9 +28,11 @@ Content Elements
  * Lists: All three types of lists are used:
    * An Ordered List to show the "Top 5 Travel Destinations".
    * An Unordered List for "Travel Essentials to Pack".
-   * A Definition List to define three travel-related terms.      <img width="1226" height="575" alt="Screenshot 2025-09-28 105738" src="https://github.com/user-attachments/assets/42220b78-5f7d-4845-aaea-3c21ec2d50ac" />
-<img width="1300" height="589" alt="Screenshot 2025-09-28 105714" src="https://github.com/user-attachments/assets/c4c2c0db-ae5e-4086-88ee-289c88b53643" />
-<img width="1302" height="618" alt="Screenshot 2025-09-28 105643" src="https://github.com/user-attachments/assets/48fe6217-b762-476b-b7f7-6ac4011e0f60" />
+   * A Definition List to define three travel-related terms.    <img width="1226" height="575" alt="Screenshot 2025-09-28 105738" src="https://github.com/user-attachments/assets/776bd3de-4dd5-44c6-9136-d14dc89e4cb0" />
+<img width="1300" height="589" alt="Screenshot 2025-09-28 105714" src="https://github.com/user-attachments/assets/8150bd2d-28a2-42f0-bda4-c30ad92a5fb4" />
+<img width="1302" height="618" alt="Screenshot 2025-09-28 105643" src="https://github.com/user-attachments/assets/297fe715-3fa4-4a20-ae25-e297f50fd9cf" />
+
+
 
  * Table: A data table displays travel packages with at least 4 rows and 3 columns (Destination | Price | Duration).
 
