@@ -1,8 +1,11 @@
-<img width="1300" height="589" alt="Screenshot 2025-09-28 105714" src="https://github.com/user-attachments/assets/751731d0-f6c2-4214-bea4-3a681a7f26d4" />
 Simple Travel Website using HTML
+
 This project is a static travel website homepage created as part of an academic assignment.The primary goal is to design a static HTML-based travel website homepage that displays travel destinations, travel packages, and contact details. The project demonstrates proficiency in fundamental HTML5 concepts by building a well-structured and visually organized webpage.
 
+<img width="1300" height="589" alt="Screenshot 2025-09-28 105714" src="https://github.com/user-attachments/assets/bdbfd6b4-e117-4efb-8961-5da1ff8b366d" />
+
 Objective
+
 
 The objective of this assignment is to assess the ability to:
  * Write a valid HTML5 document using the latest boilerplate structure.
@@ -29,8 +32,9 @@ Content Elements
  * Lists: All three types of lists are used:
    * An Ordered List to show the "Top 5 Travel Destinations".
    * An Unordered List for "Travel Essentials to Pack".
-   * A Definition List to define three travel-related terms.<img width="1302" height="618" alt="Screenshot 2025-09-28 105643" src="https://github.com/user-attachments/assets/aa2fbd90-d43a-4866-8746-776ace5ea5e2" />
+   * A Definition List to define three travel-related terms.
    
+<img width="1302" height="618" alt="Screenshot 2025-09-28 105643" src="https://github.com/user-attachments/assets/4185e495-2e07-41b6-8f8c-4dea11758720" />
 
 
 
@@ -41,6 +45,8 @@ Navigation & Hyperlinks
  * Internal Link: A jump link is included to navigate to the "Contact Us" section on the same page.
  * External Link: An external link is provided, which opens in a new tab.
  * Homepage Link: A link is included to refresh or return to the top of the homepage.
+ * 
+<img width="1226" height="575" alt="Screenshot 2025-09-28 105738" src="https://github.com/user-attachments/assets/7142e90f-ea8e-448b-b8ed-c25a77c52e74" />
 
 Technologies Used
  * HTML5
